@@ -1,0 +1,1 @@
+The Hessian matrix is a square of second partial derivatives that captures a multivariable function's curvature, revealing maxima, minima, or saddles. In AI, it accelerates model training via Newton's method, taking smarter steps than basic gradient descent toward optimal parameters.

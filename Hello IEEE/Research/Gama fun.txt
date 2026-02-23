@@ -1,0 +1,9 @@
+The Gamma function extends the factorial to any real number, not just integers. Imagine factorial like 5! = 120; Gamma computes something like 3.5! ≈ 11.6.
+
+It is defined by an integral from 0 to infinity, multiplying powers of x by an exponential decay curve to yield precise values.
+
+In probability, it powers the Gamma distribution for modeling waiting times or positive quantities:
+
+Example: A company predicts machine breakdown odds after 100 hours.
+
+Example: Rainfall amounts on a rainy day for farming plans
